@@ -32,7 +32,6 @@ header{
     min-height: 150px;
 }
 header h1{
-    background-color: #800000;
     font-family: var(--fonte-rabi);
     color:var(--amarelo-claro);
     font-weight: normal;
@@ -83,7 +82,6 @@ main{
     border-radius: 0px 0px 10px 10px;
 }
 main h1 {
-    background-image: radial-gradient(circle at 50%, var(--amerelo-medio), #ffffff);
     color: var(--vermelhor-medio);
     font-family: var(--fonte-rabi);
     font-size: 2.8em;
