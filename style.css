@@ -32,6 +32,7 @@ header{
     min-height: 150px;
 }
 header h1{
+    background-color: #800000;
     font-family: var(--fonte-rabi);
     color:var(--amarelo-claro);
     font-weight: normal;
